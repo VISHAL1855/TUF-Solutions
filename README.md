@@ -6,19 +6,20 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **3** | 0 | 3 | 0 | `2026-10-14` |
+| **4** | 0 | 4 | 0 | `2026-10-15` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (3)
+### DSA (4)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
 | 0001 | [467. Bubble Sort](./DSA/Arrays/bubble-sort) | [CPP](./DSA/Arrays/bubble-sort/solution.cpp) | 🟡 Medium | `Arrays` | `2026-10-14` |
 | 0002 | [1013. Insertion Sorting](./DSA/Arrays/insertion-sorting) | [CPP](./DSA/Arrays/insertion-sorting/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-14` |
-| 0003 | [1031. Selection Sort](./DSA/Arrays/selection-sort) | [CPP](./DSA/Arrays/selection-sort/solution.cpp) | 🟡 Medium | `Arrays` | `2026-10-14` |
+| 0003 | [1020. Merge Sorting](./DSA/Arrays/merge-sorting) | [CPP](./DSA/Arrays/merge-sorting/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-15` |
+| 0004 | [1031. Selection Sort](./DSA/Arrays/selection-sort) | [CPP](./DSA/Arrays/selection-sort/solution.cpp) | 🟡 Medium | `Arrays` | `2026-10-14` |
 
 ---
 
