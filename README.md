@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **13** | 0 | 13 | 0 | `2026-10-26` |
+| **14** | 0 | 14 | 0 | `2026-10-26` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (13)
+### DSA (14)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -29,6 +29,7 @@
 | 0011 | [357. Reverse a String II](./DSA/Strings/reverse-a-string-ii) | [CPP](./DSA/Strings/reverse-a-string-ii/solution.cpp) | ⚪ Unspecified | `Strings` | `2026-10-22` |
 | 0012 | [324. Rotate String](./DSA/Strings/rotate-string) | [CPP](./DSA/Strings/rotate-string/solution.cpp) | ⚪ Unspecified | `Strings` | `2026-10-26` |
 | 0013 | [1031. Selection Sort](./DSA/Arrays/selection-sort) | [CPP](./DSA/Arrays/selection-sort/solution.cpp) | 🟡 Medium | `Arrays` | `2026-10-14` |
+| 0014 | [52. Valid Anagram](./DSA/Strings/valid-anagram) | [CPP](./DSA/Strings/valid-anagram/solution.cpp) | ⚪ Unspecified | `Strings` | `2026-10-26` |
 
 ---
 
