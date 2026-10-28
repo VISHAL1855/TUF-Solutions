@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **20** | 0 | 20 | 0 | `2026-10-28` |
+| **21** | 0 | 21 | 0 | `2026-10-28` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (20)
+### DSA (21)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -30,12 +30,13 @@
 | 0012 | [793. Recursive Insertion Sort](./DSA/Recursion/recursive-insertion-sort) | [CPP](./DSA/Recursion/recursive-insertion-sort/solution.cpp) | ⚪ Unspecified | `Recursion` | `2026-10-19` |
 | 0013 | [294. Reverse a String I](./DSA/Strings/reverse-a-string-i) | [CPP](./DSA/Strings/reverse-a-string-i/solution.cpp) | ⚪ Unspecified | `Strings` | `2026-10-27` |
 | 0014 | [357. Reverse a String II](./DSA/Strings/reverse-a-string-ii) | [CPP](./DSA/Strings/reverse-a-string-ii/solution.cpp) | ⚪ Unspecified | `Strings` | `2026-10-22` |
-| 0015 | [324. Rotate String](./DSA/Strings/rotate-string) | [CPP](./DSA/Strings/rotate-string/solution.cpp) | ⚪ Unspecified | `Strings` | `2026-10-26` |
-| 0016 | [1031. Selection Sort](./DSA/Arrays/selection-sort) | [CPP](./DSA/Arrays/selection-sort/solution.cpp) | 🟡 Medium | `Arrays` | `2026-10-14` |
-| 0017 | [303. Sort Characters by Frequency](./DSA/Arrays/sort-characters-by-frequency) | [CPP](./DSA/Arrays/sort-characters-by-frequency/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-26` |
-| 0018 | [897. Sum of Array Elements II](./DSA/Arrays/sum-of-array-elements-ii) | [CPP](./DSA/Arrays/sum-of-array-elements-ii/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-27` |
-| 0019 | [932. Sum of First N Numbers](./DSA/General/sum-of-first-n-numbers) | [CPP](./DSA/General/sum-of-first-n-numbers/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-27` |
-| 0020 | [52. Valid Anagram](./DSA/Strings/valid-anagram) | [CPP](./DSA/Strings/valid-anagram/solution.cpp) | ⚪ Unspecified | `Strings` | `2026-10-26` |
+| 0015 | [821. Reverse an array 2](./DSA/Arrays/reverse-an-array-ii) | [CPP](./DSA/Arrays/reverse-an-array-ii/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-28` |
+| 0016 | [324. Rotate String](./DSA/Strings/rotate-string) | [CPP](./DSA/Strings/rotate-string/solution.cpp) | ⚪ Unspecified | `Strings` | `2026-10-26` |
+| 0017 | [1031. Selection Sort](./DSA/Arrays/selection-sort) | [CPP](./DSA/Arrays/selection-sort/solution.cpp) | 🟡 Medium | `Arrays` | `2026-10-14` |
+| 0018 | [303. Sort Characters by Frequency](./DSA/Arrays/sort-characters-by-frequency) | [CPP](./DSA/Arrays/sort-characters-by-frequency/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-26` |
+| 0019 | [897. Sum of Array Elements II](./DSA/Arrays/sum-of-array-elements-ii) | [CPP](./DSA/Arrays/sum-of-array-elements-ii/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-27` |
+| 0020 | [932. Sum of First N Numbers](./DSA/General/sum-of-first-n-numbers) | [CPP](./DSA/General/sum-of-first-n-numbers/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-27` |
+| 0021 | [52. Valid Anagram](./DSA/Strings/valid-anagram) | [CPP](./DSA/Strings/valid-anagram/solution.cpp) | ⚪ Unspecified | `Strings` | `2026-10-26` |
 
 ---
 
