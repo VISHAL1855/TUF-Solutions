@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **25** | 0 | 25 | 0 | `2026-10-30` |
+| **26** | 0 | 26 | 0 | `2026-10-30` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (25)
+### DSA (26)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -35,12 +35,13 @@
 | 0017 | [357. Reverse a String II](./DSA/Strings/reverse-a-string-ii) | [CPP](./DSA/Strings/reverse-a-string-ii/solution.cpp) | ⚪ Unspecified | `Strings` | `2026-10-22` |
 | 0018 | [821. Reverse an array 2](./DSA/Arrays/reverse-an-array-ii) | [CPP](./DSA/Arrays/reverse-an-array-ii/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-28` |
 | 0019 | [324. Rotate String](./DSA/Strings/rotate-string) | [CPP](./DSA/Strings/rotate-string/solution.cpp) | ⚪ Unspecified | `Strings` | `2026-10-26` |
-| 0020 | [1031. Selection Sort](./DSA/Arrays/selection-sort) | [CPP](./DSA/Arrays/selection-sort/solution.cpp) | 🟡 Medium | `Arrays` | `2026-10-14` |
-| 0021 | [303. Sort Characters by Frequency](./DSA/Arrays/sort-characters-by-frequency) | [CPP](./DSA/Arrays/sort-characters-by-frequency/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-26` |
-| 0022 | [897. Sum of Array Elements II](./DSA/Arrays/sum-of-array-elements-ii) | [CPP](./DSA/Arrays/sum-of-array-elements-ii/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-27` |
-| 0023 | [965. Sum of Digits in a Given Number](./DSA/General/sum-of-digits-in-a-given-number) | [CPP](./DSA/General/sum-of-digits-in-a-given-number/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-28` |
-| 0024 | [932. Sum of First N Numbers](./DSA/General/sum-of-first-n-numbers) | [CPP](./DSA/General/sum-of-first-n-numbers/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-27` |
-| 0025 | [52. Valid Anagram](./DSA/Strings/valid-anagram) | [CPP](./DSA/Strings/valid-anagram/solution.cpp) | ⚪ Unspecified | `Strings` | `2026-10-26` |
+| 0020 | [695. Second Largest Element](./DSA/General/second-largest-element) | [CPP](./DSA/General/second-largest-element/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-30` |
+| 0021 | [1031. Selection Sort](./DSA/Arrays/selection-sort) | [CPP](./DSA/Arrays/selection-sort/solution.cpp) | 🟡 Medium | `Arrays` | `2026-10-14` |
+| 0022 | [303. Sort Characters by Frequency](./DSA/Arrays/sort-characters-by-frequency) | [CPP](./DSA/Arrays/sort-characters-by-frequency/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-26` |
+| 0023 | [897. Sum of Array Elements II](./DSA/Arrays/sum-of-array-elements-ii) | [CPP](./DSA/Arrays/sum-of-array-elements-ii/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-27` |
+| 0024 | [965. Sum of Digits in a Given Number](./DSA/General/sum-of-digits-in-a-given-number) | [CPP](./DSA/General/sum-of-digits-in-a-given-number/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-28` |
+| 0025 | [932. Sum of First N Numbers](./DSA/General/sum-of-first-n-numbers) | [CPP](./DSA/General/sum-of-first-n-numbers/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-27` |
+| 0026 | [52. Valid Anagram](./DSA/Strings/valid-anagram) | [CPP](./DSA/Strings/valid-anagram/solution.cpp) | ⚪ Unspecified | `Strings` | `2026-10-26` |
 
 ---
 
